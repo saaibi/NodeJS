@@ -1,0 +1,16 @@
+{
+  "name": "contadorvisitas",
+  "version": "1.0.0",
+  "description": "contador de visitas Node.js ",
+  "main": "visitas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saaibi",
+  "license": "MIT",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "cookie-session": "^1.3.0",
+    "express": "^4.15.4"
+  }
+}

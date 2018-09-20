@@ -1,0 +1,14 @@
+{
+  "name": "promises",
+  "version": "1.0.0",
+  "description": "en este ejercicio aprenderemos a implementar Promesas en Node.js",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saaibi",
+  "license": "MIT",
+  "dependencies": {
+    "q": "^1.5.0"
+  }
+}
